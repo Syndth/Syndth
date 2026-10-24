@@ -22,176 +22,177 @@ BSCS STUDENT • ASPIRING CYBERSECURITY ENTHUSIAST
 
 </div>
 
-> whoami
+ <div align="center">
 
-BSCS STUDENT | CYBERSECURITY & CTF ENTHUSIAST
+<img src="./cyber-banner.png" width="100%" alt="Syndth Cybersecurity Pixel Glitch Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=Learning+cybersecurity...;Solving+CTF+challenges...;Building+Python+security+tools...;Analyzing+packets+and+digital+evidence..." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=900&color=FF3030&center=true&vCenter=true&width=750&height=65&lines=%3E+INITIALIZING+CYBER+LAB...;%3E+CTF+OPERATIVE+IN+TRAINING;%3E+ANALYZE.+EXPLOIT.+UNDERSTAND.;%3E+ACCESS+THE+UNKNOWN." alt="Pixel terminal typing animation" />
 
-Learn how systems work. Understand how they fail. Help make them safer.
+# `SYNDTH // CYBER LAB`
 
-</div>
+### `BSCS STUDENT | OFFENSIVE SECURITY ENTHUSIAST`
 
-01 // ABOUT ME
+`[ CTFs ]` // `[ PYTHON ]` // `[ NETWORKS ]` // `[ DIGITAL FORENSICS ]`
 
-USER       : Syndth
-ROLE       : BSCS Student
-INTERESTS  : Cybersecurity, CTFs, Programming
-CURRENTLY  : Learning & building
-PHILOSOPHY : Understand the process, not just the answer
+*Break systems down to understand how to build and defend them.*
 
-I'm a Computer Science student exploring cybersecurity through hands-on labs, programming, and problem-solving.
-
-🔐 Practicing Capture The Flag (CTF) challenges
-
-🐍 Learning Python through projects and security utilities
-
-🌐 Exploring networking and packet analysis
-
-🔎 Interested in OSINT and digital forensics
-
-💻 Strengthening my C and C# fundamentals
-
-🐧 Learning Linux and command-line tools
-
-02 // SECURITY TOOLKIT
-
-Area
-
-Tools and interests
-
-Network reconnaissance
-
-Nmap
-
-Packet analysis
-
-Wireshark
-
-Password auditing
-
-John the Ripper
-
-Digital forensics
-
-File analysis, metadata, hashes
-
-OSINT
-
-Public-source research and information verification
-
-CTFs
-
-Linux, web challenges, encoding, file investigation
-
-I'm learning these tools and techniques. Listing a tool here doesn't imply mastery or professional experience.
-
-03 // PROGRAMMING LAB
-
-<div align="center">
-
-
-
-
-
-
-
-
+[![GitHub](https://img.shields.io/badge/GITHUB-REPOSITORY-111111?style=for-the-badge&logo=github&logoColor=FF3030)](https://github.com/Syndth)
+[![CTF](https://img.shields.io/badge/CTF-PLAYER-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://www.hackthebox.com/)
+[![Python](https://img.shields.io/badge/PYTHON-LEARNER-111111?style=for-the-badge&logo=python&logoColor=FF3030)](https://www.python.org/)
 
 </div>
 
-Current learning goals
+---
 
-Python: functions, file handling, error handling, and small security utilities
+## `01 // IDENTITY.exe`
 
-C: variables, pointers, arrays, functions, and memory fundamentals
+```text
++--------------------------------------+
+| USER      : Syndth                   |
+| CLASS     : BSCS STUDENT             |
+| DIVISION  : CYBERSECURITY / CTF       |
+| STATUS    : LEARNING IN PROGRESS     |
+| FOCUS     : OFFENSIVE SECURITY       |
+| SIDE QUEST: DIGITAL FORENSICS        |
++--------------------------------------+
+```
 
-C#: object-oriented programming, classes, methods, and Windows Forms
+I'm a Computer Science student learning how software, operating systems, and networks work through programming, CTF challenges, and hands-on security labs.
 
-Networking: IP addresses, ports, TCP/UDP, DNS, and packet captures
+- `[+]` Capture The Flag challenges and problem-solving
+- `[+]` Python scripting and security utilities
+- `[+]` Network reconnaissance with Nmap in authorized labs
+- `[+]` Packet analysis with Wireshark
+- `[+]` Password auditing concepts with John the Ripper
+- `[+]` OSINT and digital forensics
+- `[+]` C and C# programming fundamentals
+- `[+]` Linux, command-line tools, and file investigation
 
-Linux: command-line workflows, permissions, and file investigation
+**MISSION:** Learn the methodology, understand the evidence, and document the process.
 
-04 // CTF & DIGITAL FORENSICS
-
-My goal is to become better at investigating unfamiliar files, understanding network traffic, and solving security challenges methodically.
-
-Topics I'm exploring:
-
-File signatures, metadata, and hashing
-
-Base64 and other common encoding formats
-
-PCAP analysis with Wireshark
-
-Network discovery in authorized lab environments
-
-Digital evidence investigation
-
-OSINT using lawful, publicly available sources
-
-Writing notes that explain the reasoning behind a solution
-
-05 // PROJECT ARCHIVE
-
-🐍 Python Projects
-
-Small applications and experiments that help me practice programming fundamentals.
-
-🛍️ MNL Exclusive
-
-A streetwear e-commerce project exploring web development, PHP, and database integration.
-
-🔐 Security Toolkit — Planned
-
-A Python project that will gradually include:
-
-File SHA-256 hash checker
-
-Text hash generator
-
-IP address information and validation
-
-Password-strength checker
-
-Structured output and error handling
-
-🧩 CTF Write-ups — Growing
-
-Notes on challenges I've solved, the techniques I used, and what I learned. Write-ups will respect competition rules and avoid exposing restricted solutions.
-
-06 // LEARNING ROADMAP
-
-Start building programming projects
-
-Begin practicing CTF challenges
-
-Build a Python file-hashing utility
-
-Analyze a sample PCAP in Wireshark
-
-Practice Nmap in an authorized lab
-
-Learn more about digital forensics
-
-Strengthen C and C# fundamentals
-
-Publish clear, well-documented projects
-
-07 // PRINCIPLES
-
-01. Learn before automating.
-02. Understand before copying.
-03. Verify evidence before drawing conclusions.
-04. Practice only in authorized environments.
-05. Document what you learn.
+## `02 // ARSENAL.load`
 
 <div align="center">
 
-ACCESS GRANTED
+**PROGRAMMING**
 
-LEARN // INVESTIGATE // BUILD // DEFEND
+![Python](https://img.shields.io/badge/PYTHON-111111?style=for-the-badge&logo=python&logoColor=FF3030)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=FF3030)
+![C Sharp](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=FF3030)
 
-<sub>One challenge. One project. One lesson at a time.</sub>
+**NETWORKING & SECURITY**
+
+![Nmap](https://img.shields.io/badge/NMAP-111111?style=for-the-badge&logo=linux&logoColor=FF3030)
+![Wireshark](https://img.shields.io/badge/WIRESHARK-111111?style=for-the-badge&logo=wireshark&logoColor=FF3030)
+![Linux](https://img.shields.io/badge/LINUX-111111?style=for-the-badge&logo=linux&logoColor=FF3030)
+![Git](https://img.shields.io/badge/GIT-111111?style=for-the-badge&logo=git&logoColor=FF3030)
+
+**OTHER TECHNOLOGIES**
+
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=FF3030)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=FF3030)
+![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF3030)
+
+</div>
+
+> These are technologies I'm learning, exploring, or using in projects. The badges represent my interests, not a claim of professional expertise.
+
+## `03 // OPERATIONS.log`
+
+| Division | Current focus |
+|:--|:--|
+| `01` — CTF Operations | Linux, encoding, web challenges, and investigative thinking |
+| `02` — Network Analysis | IP addresses, ports, protocols, PCAPs, and Wireshark |
+| `03` — Reconnaissance | Nmap fundamentals in authorized lab environments |
+| `04` — Digital Forensics | File signatures, metadata, hashes, and evidence analysis |
+| `05` — OSINT | Public-source research and information verification |
+| `06` — Development | Python utilities, C fundamentals, and C# / OOP |
+
+## `04 // PROJECTS.dir`
+
+### `> Python Projects`
+
+Beginner-friendly applications built while strengthening Python fundamentals.
+
+[**Explore my Python repositories →**](https://github.com/Syndth?tab=repositories)
+
+### `> MNL Exclusive`
+
+A streetwear e-commerce project exploring PHP, HTML, CSS, and database integration.
+
+[**View MNL Exclusive →**](https://github.com/Syndth/mnl-exclusive-final)
+
+### `> Syndth Security Toolkit` — `IN DEVELOPMENT`
+
+A planned command-line toolkit for practicing Python and security fundamentals.
+
+```text
+[01] File SHA-256 Checker
+[02] Text Hash Generator
+[03] IP Address Validator
+[04] Password Strength Checker
+[05] Error Handling & CLI Menu
+```
+
+### `> C / C# Fundamentals`
+
+Practice programs covering variables, conditions, loops, functions, arrays, classes, and object-oriented programming.
+
+## `05 // FORENSICS & CTF NOTES`
+
+```text
+[INVESTIGATION WORKFLOW]
+
+01. Identify the target or evidence.
+02. Gather relevant information.
+03. Inspect files, metadata, or network traffic.
+04. Form a hypothesis.
+05. Test and verify the findings.
+06. Document the methodology.
+```
+
+Areas I'm exploring:
+
+- File signatures and metadata analysis
+- Hashing and integrity verification
+- Encoding and basic data transformations
+- PCAP investigation with Wireshark
+- Linux command-line analysis
+- OSINT source verification
+- CTF methodology and write-ups
+
+*Challenge write-ups will follow the event's disclosure rules and avoid publishing restricted flags or solutions.*
+
+## `06 // CURRENT_OBJECTIVES.exe`
+
+- [x] Start building programming projects
+- [x] Begin practicing CTF challenges
+- [ ] Build a Python file-hashing tool
+- [ ] Investigate a sample PCAP
+- [ ] Improve Linux command-line proficiency
+- [ ] Practice Nmap in a legal lab
+- [ ] Explore digital forensics workflows
+- [ ] Strengthen C and C# fundamentals
+- [ ] Publish documented security projects
+
+## `07 // RULES_OF_ENGAGEMENT.cfg`
+
+```text
+[ RULE 01 ] Learn the underlying concept.
+[ RULE 02 ] Verify results instead of guessing.
+[ RULE 03 ] Respect privacy and digital evidence.
+[ RULE 04 ] Test only systems I own or am authorized to assess.
+[ RULE 05 ] Document findings and lessons learned.
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080808,50:330000,100:990000&height=120&section=footer&text=ACCESS%20GRANTED&fontColor=FF3030&fontSize=24&fontAlignY=55&animation=fadeIn" width="100%" alt="Access Granted red cyberpunk footer" />
+
+`LEARN // ANALYZE // TEST // DOCUMENT`
+
+<sub>ONE CHALLENGE AT A TIME. ONE SKILL AT A TIME.</sub>
 
 </div>
