@@ -1,16 +1,19 @@
-## Hi there 👋
+#Error ?404?
 
-<!--
-**Syndth/Syndth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="./cyber-banner.png" width="100%" alt="Syndth Cybersecurity Pixel Art Banner">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:650000,100:ff2020&height=200&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Welcome%20to%20my%20digital%20space&descAlignY=58&descSize=16" width="100%" />
+
+> Sudo apt install.. >> ?_
+
+BSCS STUDENT • ASPIRING CYBERSECURITY ENTHUSIAST
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=Learning+to+code...;Exploring+the+world+of+cybersecurity...;One+CTF+at+a+time...;Building.+Breaking.+Learning." alt="Typing SVG" />
+
+
+</div>
