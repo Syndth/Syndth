@@ -173,24 +173,8 @@ Areas I'm exploring:
 - [ ] Strengthen C and C# fundamentals
 - [ ] Publish documented security projects
 
-## `07 // RULES_OF_ENGAGEMENT.cfg`
-
-```text
-[ RULE 01 ] Learn the underlying concept.
-[ RULE 02 ] Verify results instead of guessing.
-[ RULE 03 ] Respect privacy and digital evidence.
-[ RULE 04 ] Test only systems I own or am authorized to assess.
-[ RULE 05 ] Document findings and lessons learned.
-```
-
----
-
 <div align="center">
-
+  
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:080808,50:330000,100:990000&height=120&section=footer&text=ACCESS%20GRANTED&fontColor=FF3030&fontSize=24&fontAlignY=55&animation=fadeIn" width="100%" alt="Access Granted red cyberpunk footer" />
-
-`LEARN // ANALYZE // TEST // DOCUMENT`
-
-<sub>ONE CHALLENGE AT A TIME. ONE SKILL AT A TIME.</sub>
 
 </div>
