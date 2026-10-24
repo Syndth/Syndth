@@ -1,4 +1,4 @@
-#Error ?404?
+
 
 <div align="center">
   <img
@@ -13,11 +13,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:650000,100:ff2020&height=200&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Welcome%20to%20my%20digital%20space&descAlignY=58&descSize=16" width="100%" />
 
-> Sudo apt install Syndth __
+> Sudo apt install --Syndth.exe
 
 BSCS STUDENT • ASPIRING CYBERSECURITY ENTHUSIAST
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=Learning+to+code...;Exploring+the+world+of+cybersecurity...;One+CTF+at+a+time...;Building.+Breaking.+Learning." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF3030&center=true&vCenter=true&width=600&lines=Learning+and+adapting...;Exploring+the+world+of+cybersecurity...;CTF+Learner+And+Explorer+...;Building.+Breaking.+Learning." alt="Typing SVG" />
 
 
 </div>
@@ -42,7 +42,7 @@ BSCS STUDENT • ASPIRING CYBERSECURITY ENTHUSIAST
 
 ---
 
-## `01 // IDENTITY.exe`
+## `01 // Syndth.exe`
 
 ```text
 +--------------------------------------+
@@ -87,9 +87,7 @@ I'm a Computer Science student learning how software, operating systems, and net
 
 **OTHER TECHNOLOGIES**
 
-![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=FF3030)
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=FF3030)
-![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FF3030)
+N/A
 
 </div>
 
@@ -104,9 +102,11 @@ I'm a Computer Science student learning how software, operating systems, and net
 | `03` — Reconnaissance | Nmap fundamentals in authorized lab environments |
 | `04` — Digital Forensics | File signatures, metadata, hashes, and evidence analysis |
 | `05` — OSINT | Public-source research and information verification |
-| `06` — Development | Python utilities, C fundamentals, and C# / OOP |
+| `06` — Development | Python utilities, C fundamentals, and C# |
 
 ## `04 // PROJECTS.dir`
+
+N/A (still working on it)
 
 ### `> Python Projects`
 
@@ -168,8 +168,8 @@ Areas I'm exploring:
 - [ ] Build a Python file-hashing tool
 - [ ] Investigate a sample PCAP
 - [ ] Improve Linux command-line proficiency
-- [ ] Practice Nmap in a legal lab
-- [ ] Explore digital forensics workflows
+- [x] Practice Nmap in a legal lab
+- [x] Explore digital forensics workflows
 - [ ] Strengthen C and C# fundamentals
 - [ ] Publish documented security projects
 
