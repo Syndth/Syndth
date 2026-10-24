@@ -24,8 +24,6 @@ BSCS STUDENT • ASPIRING CYBERSECURITY ENTHUSIAST
 
  <div align="center">
 
-<img src="./cyber-banner.png" width="100%" alt="Syndth Cybersecurity Pixel Glitch Banner" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=900&color=FF3030&center=true&vCenter=true&width=750&height=65&lines=%3E+INITIALIZING+CYBER+LAB...;%3E+CTF+OPERATIVE+IN+TRAINING;%3E+ANALYZE.+EXPLOIT.+UNDERSTAND.;%3E+ACCESS+THE+UNKNOWN." alt="Pixel terminal typing animation" />
 
 # `SYNDTH // CYBER LAB`
