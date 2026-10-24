@@ -1,6 +1,5 @@
 #Error ?404?
 
-
 <div align="center">
   <img
     src="./cyber-banner.png"
@@ -8,6 +7,7 @@
     alt="Syndth Cybersecurity Glitch Banner"
   />
 </div>
+
 
 <div align="center">
 
