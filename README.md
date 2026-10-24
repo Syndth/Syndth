@@ -2,7 +2,11 @@
 
 
 <div align="center">
-  <img src="./cyber-banner.png" width="100%" alt="Syndth Cybersecurity Pixel Art Banner">
+  <img
+    src="./cyber-banner.png"
+    width="100%"
+    alt="Syndth Cybersecurity Glitch Banner"
+  />
 </div>
 
 <div align="center">
