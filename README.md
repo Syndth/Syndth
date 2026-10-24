@@ -13,7 +13,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:650000,100:ff2020&height=200&section=header&text=SYSTEM%20ONLINE&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Welcome%20to%20my%20digital%20space&descAlignY=58&descSize=16" width="100%" />
 
-> Sudo apt install.. >> ?_
+> Sudo apt install Syndth __
 
 BSCS STUDENT • ASPIRING CYBERSECURITY ENTHUSIAST
 
